@@ -1,0 +1,24 @@
+﻿.navbar {
+    background-color: #CA6702;
+    font-family: 'Comic Sans MS';
+}
+.nav-link{
+    color: black;
+}
+.navbar-brand{
+    color: black;
+}
+
+.nav-item{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+body {
+    background-color: #E9D8A6;
+}
+footer {
+    background: #001219;
+    padding: 20px;
+    color: white;
+    margin-top: 40px;
+}
