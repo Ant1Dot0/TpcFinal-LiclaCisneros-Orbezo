@@ -15,11 +15,13 @@
     margin-right: 10px;
 }
 body {
-  
+    display: grid;
+    min-height: 100vh;
+    grid-template-rows: auto 1fr auto;
 }
 footer {
     background: #001219;
     padding: 20px;
     color: white;
-    margin-top: 40px;
+    margin-top: auto;
 }

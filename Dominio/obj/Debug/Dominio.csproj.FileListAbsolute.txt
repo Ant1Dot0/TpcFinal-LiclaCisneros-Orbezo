@@ -1,0 +1,9 @@
+C:\Users\JoseEdu\Desktop\proyecto\TpcFinal-LiclaCisneros-Orbezo\Dominio\bin\Debug\Dominio.exe.config
+C:\Users\JoseEdu\Desktop\proyecto\TpcFinal-LiclaCisneros-Orbezo\Dominio\bin\Debug\Dominio.exe
+C:\Users\JoseEdu\Desktop\proyecto\TpcFinal-LiclaCisneros-Orbezo\Dominio\bin\Debug\Dominio.pdb
+C:\Users\JoseEdu\Desktop\proyecto\TpcFinal-LiclaCisneros-Orbezo\Dominio\obj\Debug\Dominio.csproj.AssemblyReference.cache
+C:\Users\JoseEdu\Desktop\proyecto\TpcFinal-LiclaCisneros-Orbezo\Dominio\obj\Debug\Dominio.Properties.Resources.resources
+C:\Users\JoseEdu\Desktop\proyecto\TpcFinal-LiclaCisneros-Orbezo\Dominio\obj\Debug\Dominio.csproj.GenerateResource.cache
+C:\Users\JoseEdu\Desktop\proyecto\TpcFinal-LiclaCisneros-Orbezo\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\JoseEdu\Desktop\proyecto\TpcFinal-LiclaCisneros-Orbezo\Dominio\obj\Debug\Dominio.exe
+C:\Users\JoseEdu\Desktop\proyecto\TpcFinal-LiclaCisneros-Orbezo\Dominio\obj\Debug\Dominio.pdb

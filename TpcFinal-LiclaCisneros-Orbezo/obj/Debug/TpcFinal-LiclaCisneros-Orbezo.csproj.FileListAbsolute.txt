@@ -114,3 +114,9 @@ C:\Users\user\Dropbox\UTN-FRGP\PROGRAM3\WEB\TpFINAL\TpcFinal-LiclaCisneros-Orbez
 C:\Users\user\Dropbox\UTN-FRGP\PROGRAM3\WEB\TpFINAL\TpcFinal-LiclaCisneros-Orbezo\TpcFinal-LiclaCisneros-Orbezo\bin\roslyn\vbc.rsp
 C:\Users\user\Dropbox\UTN-FRGP\PROGRAM3\WEB\TpFINAL\TpcFinal-LiclaCisneros-Orbezo\TpcFinal-LiclaCisneros-Orbezo\bin\roslyn\VBCSCompiler.exe
 C:\Users\user\Dropbox\UTN-FRGP\PROGRAM3\WEB\TpFINAL\TpcFinal-LiclaCisneros-Orbezo\TpcFinal-LiclaCisneros-Orbezo\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\JoseEdu\Desktop\proyecto\TpcFinal-LiclaCisneros-Orbezo\TpcFinal-LiclaCisneros-Orbezo\bin\Dominio.exe
+C:\Users\JoseEdu\Desktop\proyecto\TpcFinal-LiclaCisneros-Orbezo\TpcFinal-LiclaCisneros-Orbezo\bin\Negocio.exe
+C:\Users\JoseEdu\Desktop\proyecto\TpcFinal-LiclaCisneros-Orbezo\TpcFinal-LiclaCisneros-Orbezo\bin\Dominio.pdb
+C:\Users\JoseEdu\Desktop\proyecto\TpcFinal-LiclaCisneros-Orbezo\TpcFinal-LiclaCisneros-Orbezo\bin\Dominio.exe.config
+C:\Users\JoseEdu\Desktop\proyecto\TpcFinal-LiclaCisneros-Orbezo\TpcFinal-LiclaCisneros-Orbezo\bin\Negocio.pdb
+C:\Users\JoseEdu\Desktop\proyecto\TpcFinal-LiclaCisneros-Orbezo\TpcFinal-LiclaCisneros-Orbezo\bin\Negocio.exe.config
