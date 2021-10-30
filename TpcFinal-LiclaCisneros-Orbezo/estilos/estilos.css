@@ -1,10 +1,11 @@
-﻿.navbar {
-    background-color: #CA6702;
+﻿:root{
+}
+
+.navbar {
+    background-color: #F9DF84;
     font-family: 'Comic Sans MS';
 }
-.nav-link{
-    color: black;
-}
+
 .navbar-brand{
     color: black;
 }
@@ -14,7 +15,7 @@
     margin-right: 10px;
 }
 body {
-    background-color: #E9D8A6;
+  
 }
 footer {
     background: #001219;
