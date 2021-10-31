@@ -1,0 +1,9 @@
+C:\Users\user\Dropbox\UTN-FRGP\PROGRAM3\INTEGRADOR\TpcFinal-LiclaCisneros-Orbezo\Capa_Negocio\bin\Debug\Capa_Negocio.dll
+C:\Users\user\Dropbox\UTN-FRGP\PROGRAM3\INTEGRADOR\TpcFinal-LiclaCisneros-Orbezo\Capa_Negocio\bin\Debug\Capa_Negocio.pdb
+C:\Users\user\Dropbox\UTN-FRGP\PROGRAM3\INTEGRADOR\TpcFinal-LiclaCisneros-Orbezo\Capa_Negocio\bin\Debug\Capa_Dominio.dll
+C:\Users\user\Dropbox\UTN-FRGP\PROGRAM3\INTEGRADOR\TpcFinal-LiclaCisneros-Orbezo\Capa_Negocio\bin\Debug\Capa_Dominio.pdb
+C:\Users\user\Dropbox\UTN-FRGP\PROGRAM3\INTEGRADOR\TpcFinal-LiclaCisneros-Orbezo\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.AssemblyReference.cache
+C:\Users\user\Dropbox\UTN-FRGP\PROGRAM3\INTEGRADOR\TpcFinal-LiclaCisneros-Orbezo\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.CoreCompileInputs.cache
+C:\Users\user\Dropbox\UTN-FRGP\PROGRAM3\INTEGRADOR\TpcFinal-LiclaCisneros-Orbezo\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.CopyComplete
+C:\Users\user\Dropbox\UTN-FRGP\PROGRAM3\INTEGRADOR\TpcFinal-LiclaCisneros-Orbezo\Capa_Negocio\obj\Debug\Capa_Negocio.dll
+C:\Users\user\Dropbox\UTN-FRGP\PROGRAM3\INTEGRADOR\TpcFinal-LiclaCisneros-Orbezo\Capa_Negocio\obj\Debug\Capa_Negocio.pdb

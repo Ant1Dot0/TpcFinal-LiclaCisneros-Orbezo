@@ -7,3 +7,12 @@ C:\Users\JoseEdu\Desktop\proyecto\TpcFinal-LiclaCisneros-Orbezo\Dominio\obj\Debu
 C:\Users\JoseEdu\Desktop\proyecto\TpcFinal-LiclaCisneros-Orbezo\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
 C:\Users\JoseEdu\Desktop\proyecto\TpcFinal-LiclaCisneros-Orbezo\Dominio\obj\Debug\Dominio.exe
 C:\Users\JoseEdu\Desktop\proyecto\TpcFinal-LiclaCisneros-Orbezo\Dominio\obj\Debug\Dominio.pdb
+C:\Users\user\Dropbox\UTN-FRGP\PROGRAM3\INTEGRADOR\TpcFinal-LiclaCisneros-Orbezo\Dominio\bin\Debug\Dominio.exe.config
+C:\Users\user\Dropbox\UTN-FRGP\PROGRAM3\INTEGRADOR\TpcFinal-LiclaCisneros-Orbezo\Dominio\bin\Debug\Dominio.exe
+C:\Users\user\Dropbox\UTN-FRGP\PROGRAM3\INTEGRADOR\TpcFinal-LiclaCisneros-Orbezo\Dominio\bin\Debug\Dominio.pdb
+C:\Users\user\Dropbox\UTN-FRGP\PROGRAM3\INTEGRADOR\TpcFinal-LiclaCisneros-Orbezo\Dominio\obj\Debug\Dominio.csproj.AssemblyReference.cache
+C:\Users\user\Dropbox\UTN-FRGP\PROGRAM3\INTEGRADOR\TpcFinal-LiclaCisneros-Orbezo\Dominio\obj\Debug\Dominio.Properties.Resources.resources
+C:\Users\user\Dropbox\UTN-FRGP\PROGRAM3\INTEGRADOR\TpcFinal-LiclaCisneros-Orbezo\Dominio\obj\Debug\Dominio.csproj.GenerateResource.cache
+C:\Users\user\Dropbox\UTN-FRGP\PROGRAM3\INTEGRADOR\TpcFinal-LiclaCisneros-Orbezo\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\user\Dropbox\UTN-FRGP\PROGRAM3\INTEGRADOR\TpcFinal-LiclaCisneros-Orbezo\Dominio\obj\Debug\Dominio.exe
+C:\Users\user\Dropbox\UTN-FRGP\PROGRAM3\INTEGRADOR\TpcFinal-LiclaCisneros-Orbezo\Dominio\obj\Debug\Dominio.pdb

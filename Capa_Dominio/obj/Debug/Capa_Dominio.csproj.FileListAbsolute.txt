@@ -1,0 +1,5 @@
+C:\Users\user\Dropbox\UTN-FRGP\PROGRAM3\INTEGRADOR\TpcFinal-LiclaCisneros-Orbezo\Capa_Dominio\bin\Debug\Capa_Dominio.dll
+C:\Users\user\Dropbox\UTN-FRGP\PROGRAM3\INTEGRADOR\TpcFinal-LiclaCisneros-Orbezo\Capa_Dominio\bin\Debug\Capa_Dominio.pdb
+C:\Users\user\Dropbox\UTN-FRGP\PROGRAM3\INTEGRADOR\TpcFinal-LiclaCisneros-Orbezo\Capa_Dominio\obj\Debug\Capa_Dominio.csproj.CoreCompileInputs.cache
+C:\Users\user\Dropbox\UTN-FRGP\PROGRAM3\INTEGRADOR\TpcFinal-LiclaCisneros-Orbezo\Capa_Dominio\obj\Debug\Capa_Dominio.dll
+C:\Users\user\Dropbox\UTN-FRGP\PROGRAM3\INTEGRADOR\TpcFinal-LiclaCisneros-Orbezo\Capa_Dominio\obj\Debug\Capa_Dominio.pdb

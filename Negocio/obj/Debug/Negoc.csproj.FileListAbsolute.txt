@@ -1,0 +1,12 @@
+C:\Users\user\Dropbox\UTN-FRGP\PROGRAM3\INTEGRADOR\TpcFinal-LiclaCisneros-Orbezo\Negocio\bin\Debug\Negocio.exe.config
+C:\Users\user\Dropbox\UTN-FRGP\PROGRAM3\INTEGRADOR\TpcFinal-LiclaCisneros-Orbezo\Negocio\bin\Debug\Negocio.exe
+C:\Users\user\Dropbox\UTN-FRGP\PROGRAM3\INTEGRADOR\TpcFinal-LiclaCisneros-Orbezo\Negocio\bin\Debug\Negocio.pdb
+C:\Users\user\Dropbox\UTN-FRGP\PROGRAM3\INTEGRADOR\TpcFinal-LiclaCisneros-Orbezo\Negocio\bin\Debug\Dominio.exe
+C:\Users\user\Dropbox\UTN-FRGP\PROGRAM3\INTEGRADOR\TpcFinal-LiclaCisneros-Orbezo\Negocio\bin\Debug\Dominio.pdb
+C:\Users\user\Dropbox\UTN-FRGP\PROGRAM3\INTEGRADOR\TpcFinal-LiclaCisneros-Orbezo\Negocio\bin\Debug\Dominio.exe.config
+C:\Users\user\Dropbox\UTN-FRGP\PROGRAM3\INTEGRADOR\TpcFinal-LiclaCisneros-Orbezo\Negocio\obj\Debug\Negoc.csproj.AssemblyReference.cache
+C:\Users\user\Dropbox\UTN-FRGP\PROGRAM3\INTEGRADOR\TpcFinal-LiclaCisneros-Orbezo\Negocio\obj\Debug\Negocio.Properties.Resources.resources
+C:\Users\user\Dropbox\UTN-FRGP\PROGRAM3\INTEGRADOR\TpcFinal-LiclaCisneros-Orbezo\Negocio\obj\Debug\Negoc.csproj.GenerateResource.cache
+C:\Users\user\Dropbox\UTN-FRGP\PROGRAM3\INTEGRADOR\TpcFinal-LiclaCisneros-Orbezo\Negocio\obj\Debug\Negoc.csproj.CoreCompileInputs.cache
+C:\Users\user\Dropbox\UTN-FRGP\PROGRAM3\INTEGRADOR\TpcFinal-LiclaCisneros-Orbezo\Negocio\obj\Debug\Negocio.exe
+C:\Users\user\Dropbox\UTN-FRGP\PROGRAM3\INTEGRADOR\TpcFinal-LiclaCisneros-Orbezo\Negocio\obj\Debug\Negocio.pdb
