@@ -182,3 +182,7 @@ C:\Users\user\Dropbox\UTN-FRGP\PROGRAM3\INTEGRADOR\TpcFinal-LiclaCisneros-Orbezo
 C:\Users\user\Dropbox\UTN-FRGP\PROGRAM3\INTEGRADOR\TpcFinal-LiclaCisneros-Orbezo\TpcFinal-LiclaCisneros-Orbezo\bin\Capa_Negocio.dll
 C:\Users\user\Dropbox\UTN-FRGP\PROGRAM3\INTEGRADOR\TpcFinal-LiclaCisneros-Orbezo\TpcFinal-LiclaCisneros-Orbezo\bin\Capa_Dominio.pdb
 C:\Users\user\Dropbox\UTN-FRGP\PROGRAM3\INTEGRADOR\TpcFinal-LiclaCisneros-Orbezo\TpcFinal-LiclaCisneros-Orbezo\bin\Capa_Negocio.pdb
+C:\Users\user\Dropbox\UTN-FRGP\PROGRAM3\WEB\TpFINAL\TpcFinal-LiclaCisneros-Orbezo\TpcFinal-LiclaCisneros-Orbezo\bin\Capa_Dominio.dll
+C:\Users\user\Dropbox\UTN-FRGP\PROGRAM3\WEB\TpFINAL\TpcFinal-LiclaCisneros-Orbezo\TpcFinal-LiclaCisneros-Orbezo\bin\Capa_Negocio.dll
+C:\Users\user\Dropbox\UTN-FRGP\PROGRAM3\WEB\TpFINAL\TpcFinal-LiclaCisneros-Orbezo\TpcFinal-LiclaCisneros-Orbezo\bin\Capa_Dominio.pdb
+C:\Users\user\Dropbox\UTN-FRGP\PROGRAM3\WEB\TpFINAL\TpcFinal-LiclaCisneros-Orbezo\TpcFinal-LiclaCisneros-Orbezo\bin\Capa_Negocio.pdb

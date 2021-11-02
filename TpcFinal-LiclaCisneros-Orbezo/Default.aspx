@@ -37,7 +37,7 @@
                 <div class="card-body" style="border-top:1px solid black;display:flex;flex-direction:column;align-items:center;">
                     <h5 class="card-title"><%=arti.nombre %></h5>
                     <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                    <a href="#" class="btn btn-success">Ver más</a>
+                    <a href="Detalle.aspx" class="btn btn-success">Ver más</a>
                 </div>
             </div>
             <%}%>
