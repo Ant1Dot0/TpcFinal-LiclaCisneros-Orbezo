@@ -4,7 +4,7 @@
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
     <div class="container">
         <div class="row" style="align-items:center;">
-            <div class="imagen" style="width:50%;height:500px;border:1px solid black;margin-right:20px;margin-top:40px;">
+            <div class="imagen" style="width:50%;height:500px;border:1px solid black;margin-right:50px;margin-top:40px;">
                 <img src="https://http2.mlstatic.com/D_NQ_NP_954583-MLA31512056604_072019-W.webp" alt="Imagen" width="100%" height="100%"/>
             </div>
             <div class="detalle" style="width:40%;height:500px;margin-top:40px;display:flex;flex-direction:column;align-items:center;justify-content:center;">
@@ -12,7 +12,7 @@
                 <p style="font-size:50px;">$ 38.999</p>
                 <h4>Stock Disponible</h4>
                 <p>10 Unidades</p>
-                <p>Cantidad: <select style="width">
+                <p>Cantidad: <select style="width:80px;text-align:center;">
                     <option>1</option>
                     <option>2</option>
                     <option>3</option>
@@ -20,7 +20,7 @@
                     <option>6</option>
                 </select>
                 </p>
-                <asp:Button Text="Agregar al carrito" runat="server" style="width:100%;height:50px;border-radius:5px;background-color:mediumblue;color:white;font-weight:600;"/>
+                <asp:Button Text="Agregar al carrito" runat="server" style="width:100%;height:50px;margin-bottom:10px;border-radius:5px;background-color:mediumblue;color:white;font-weight:600;"/>
                 <asp:Button Text="Comprar Ahora" runat="server" style="width:100%;height:50px;border-radius:5px;background-color:cornflowerblue;color:white;font-weight:600;"/>
             </div>
         </div>
